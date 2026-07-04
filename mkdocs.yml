@@ -1,0 +1,20 @@
+site_name: Finansowy GPS
+theme:
+  name: material
+  language: pl
+  palette:
+    - scheme: default
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/card-bulleted-settings-outline
+        name: Przełącz na tryb ciemny
+    - scheme: slate
+      primary: green
+      accent: light green
+      toggle:
+        icon: material/card-bulleted-settings
+        name: Przełącz na tryb jasny
+  features:
+    - navigation.tabs
+    - content.code.copy
