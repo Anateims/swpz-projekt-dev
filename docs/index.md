@@ -4,6 +4,7 @@ Witamy w projekcie "Finansowy GPS". Jest to kompleksowy poradnik wdrożeniowy or
 
 ## Struktura Poradnika
 Strona została podzielona na logiczne części, ułatwiające przyswajanie wiedzy:
+
 1. **Teoria Finansów** – podstawowe pojęcia i reguły dystrybucji gotówki.
 2. **Konfiguracja Systemu** – przewodnik po narzędziach i kategoryzacji.
 3. **Przykłady (Case Study)** – praktyczna analiza budżetu i plan spłaty zadłużenia.
