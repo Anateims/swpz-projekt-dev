@@ -3,10 +3,9 @@
 Witamy w projekcie "Finansowy GPS". Jest to kompleksowy poradnik wdrożeniowy oraz system wspomagania zarządzania finansami osobistymi, stworzony z myślą o osobach, które chcą przejąć kontrolę nad swoimi wydatkami i zbudować stabilną poduszkę finansową.
 
 ## Struktura Poradnika
-Strona została podzielona na logiczne części, ułatwiające przyswajanie wiedzy:
+Treść systemu została podzielona na komplementarne moduły, ułatwiające sekwencyjne przyswajanie wiedzy:
 
-1. **Teoria Finansów** – podstawowe pojęcia i reguły dystrybucji gotówki.
-2. **Konfiguracja Systemu** – przewodnik po narzędziach i kategoryzacji.
-3. **Przykłady (Case Study)** – praktyczna analiza budżetu i plan spłaty zadłużenia.
-4. **Weryfikacja i Testowanie** – procedury audytu finansowego i technicznego.
-5. **Autorzy** - przedstawienie autorów i ich roli w poradniku 
+1. **Strona Główna** – założenia projektowe oraz opis architektury.
+2. **Autorzy** – szczegółowa karta z informacjami o autorach i ich roli w poradniku.
+3. **Teoria Finansów** – naukowe i praktyczne podejście do poduszki finansowej oraz reguły 50/30/20.
+4. **Przykłady (Case Study)** – analiza budżetowa studenta Jana ujęta w tabelach oraz matematyczna strategia wyjścia z długów.
